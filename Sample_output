@@ -1,0 +1,76 @@
+============================= Game Begins! ============================
+  |   |   | 
+  |   |   | 
+  |   |   | 
+Player X, enter your move (row and column): 1 1
+
+  |   |   | 
+  | X |   | 
+  |   |   | 
+Player O, enter your move (row and column): 2 0
+
+  |   |   | 
+  | X |   | 
+O |   |   | 
+Player X, enter your move (row and column): 1 2
+
+  |   |   | 
+  | X | X | 
+O |   |   | 
+Player O, enter your move (row and column): 0 0
+
+O |   |   | 
+  | X | X | 
+O |   |   | 
+Player X, enter your move (row and column): 1 0
+
+Player X has won!
+O |   |   | 
+X | X | X | 
+O |   |   | 
+Do you want to play again? Press 1 for yes, 0 for no: 
+1
+============================= Game Begins! ============================
+  |   |   | 
+  |   |   | 
+  |   |   | 
+Player X, enter your move (row and column): 1 0
+
+  |   |   | 
+X |   |   | 
+  |   |   | 
+Player O, enter your move (row and column): 1 1
+
+  |   |   | 
+X | O |   | 
+  |   |   | 
+Player X, enter your move (row and column): 1 2
+
+  |   |   | 
+X | O | X | 
+  |   |   | 
+Player O, enter your move (row and column): 0 0
+
+O |   |   | 
+X | O | X | 
+  |   |   | 
+Player X, enter your move (row and column): 0 1
+
+O | X |   | 
+X | O | X | 
+  |   |   | 
+Player O, enter your move (row and column): 1 1
+
+Invalid move. Try again!
+O | X |   | 
+X | O | X | 
+  |   |   | 
+Player O, enter your move (row and column): 2 2
+
+Player O has won!
+O | X |   | 
+X | O | X | 
+  |   | O | 
+Do you want to play again? Press 1 for yes, 0 for no: 
+0
+====================== Thanks for Playing! ======================
